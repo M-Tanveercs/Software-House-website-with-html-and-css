@@ -37,3 +37,28 @@ a:hover{
     background: #09568d;
     padding: 30px;
 }
+
+button{
+    width: 30%;
+    height: 50px;
+    background: #172035;
+    color: white;
+    font-size: 2em;
+    border: none;
+}
+
+button:hover{
+    background: #09568d;
+}
+
+h1{
+    font-size: 4em;
+}
+
+h3{
+    font-size: 2em;
+}
+
+p{
+    font-size: 2em;
+}
